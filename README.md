@@ -7,7 +7,7 @@ structured test cases.
   - Functional, edge, and negative test cases
   - Table-formatted output
   - Easy to extend with UI or Jira integration
-   ⚠️ Requires OpenAI API key with active billing.
+⚠️ Requires OpenAI API key with active billing.
 
 ## 🚀 Use Cases
 - Faster test case creation
