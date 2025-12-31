@@ -1,0 +1,16 @@
+# 🤖 LLM Test Case Generator
+
+An LLM-powered QA tool that converts requirements or user stories into
+structured test cases.
+
+## 🚀 Use Cases
+- Faster test case creation
+- AI-assisted test design
+- QA productivity improvement
+
+## 🛠 Setup
+
+```bash
+pip install -r requirements.txt
+export OPENAI_API_KEY=your_api_key_here
+python app.py
