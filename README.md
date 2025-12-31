@@ -3,6 +3,12 @@
 An LLM-powered QA tool that converts requirements or user stories into
 structured test cases.
 
+## Features:
+  - Functional, edge, and negative test cases
+  - Table-formatted output
+  - Easy to extend with UI or Jira integration
+   ⚠️ Requires OpenAI API key with active billing.
+
 ## 🚀 Use Cases
 - Faster test case creation
 - AI-assisted test design
